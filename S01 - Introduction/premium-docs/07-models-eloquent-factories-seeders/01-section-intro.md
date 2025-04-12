@@ -1,4 +1,4 @@
-# Models, Eloquent ORM, Facroties & Seeders
+# 1 - Models, Eloquent ORM, Facroties & Seeders
 
 We now have our database setup and connected to our application. Now we need to start interacting with it. Remember, in MVC, the model, the M deals with the database. We've already been working with routes, controllers and views, now it's time for models. Laravel comes with a great ORM called Eloquent, which has all kinds of methods to work with the data. Methods like find, create, paginate, update, delete and many more. So we don't really create model methods. We already have them available to us. We can also have relationships between models. We're going to create a relationship between users and job listings.
 

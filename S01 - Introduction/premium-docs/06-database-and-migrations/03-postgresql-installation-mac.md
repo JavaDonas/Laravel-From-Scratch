@@ -1,4 +1,4 @@
-# PostgreSQL Installation on Mac
+# 3 - PostgreSQL Installation on Mac
 
 In this lesson, I will show you how to install PostgreSQL and PG Admin on MacOS. PostgreSQL is a popular open-source relational database management system that is widely used in web development. This is what I will be using in this course but you are free to use something else like MySQL or SQLite. Laravel makes it easy to switch between databases. PG Admin is a desktop app for managing your databases.
 

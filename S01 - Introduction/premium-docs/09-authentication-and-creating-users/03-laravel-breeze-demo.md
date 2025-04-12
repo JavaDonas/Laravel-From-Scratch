@@ -1,4 +1,4 @@
-# Laravel Breeze Demo
+# 3 - Laravel Breeze Demo
 
 As I explained in the last lesson, we're going to build our own authentication system. However, I still want to show you how to scaffold a project with Breeze. This will give you a good idea of what Breeze does for you. It's a great way to get started with authentication.
 

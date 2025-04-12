@@ -1,4 +1,4 @@
-# Configure Database Connection
+# 6 - Configure Database Connection
 
 We now have PostgreSQL installed and we have a brand new database and user called workopia. We are going to configure our Laravel application to use this database.
 

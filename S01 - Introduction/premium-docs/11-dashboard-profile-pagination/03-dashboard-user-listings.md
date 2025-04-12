@@ -1,4 +1,4 @@
-# Dashboard User Job Listings
+# 3 - Dashboard User Job Listings
 
 Now we want the user's listings to be displayed on their dashboard page. We already have everything in place. In the controller, we are passing the jobs into the view.
 

@@ -1,4 +1,4 @@
-# Login & Register Controllers
+# 5 - Login & Register Controllers
 
 We are going to build a custom login using some of the tools that Laravel offers. We even have the tables already created for us. We have a users table from the default migration files that come with Laravel. We also have a `User` model that is already setup for us.
 

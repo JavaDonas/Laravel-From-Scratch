@@ -1,4 +1,4 @@
-# Seeding Bookmarks
+# 3 - Seeding Bookmarks
 
 Before we move on, lets make it so that when we run our seeder, it adds random job listings as bookmarks for our test user.
 

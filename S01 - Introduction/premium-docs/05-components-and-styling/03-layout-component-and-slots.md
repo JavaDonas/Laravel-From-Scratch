@@ -1,4 +1,4 @@
-# Layout Components & Slots
+# 3 - Layout Components & Slots
 
 As I said earlier, there are two ways to work with layouts. There is the template inheritance method, and there is the component method. We have already seen how to use the template inheritance method. In this lesson, we will learn how to use components for our layout and ultimately that is what we will use for our project.
 

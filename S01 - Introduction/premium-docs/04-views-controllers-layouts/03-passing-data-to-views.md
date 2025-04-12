@@ -1,4 +1,4 @@
-# Passing Data to Views
+# 3 - Passing Data to Views
 
 In the last lesson, we saw how to create a basic view. We haven't even gotten into Blade templates yet, but before we do that, I want to look at the different ways that you can pass data into a view. This is something that you will be diong a lot. For instance, if you fetch some data from your database through the model, you will want to pass that data to the view to display it.
 

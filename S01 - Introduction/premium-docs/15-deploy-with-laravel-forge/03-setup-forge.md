@@ -1,4 +1,4 @@
-# Setup Laravel Forge
+# 3 - Setup Laravel Forge
 
 There are a lot of ways to deploy a Laravel project. Unfortunately, many of them are pretty difficult, especially if you are coming from a frontend development background.
 

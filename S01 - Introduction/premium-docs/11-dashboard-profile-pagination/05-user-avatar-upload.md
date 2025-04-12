@@ -1,4 +1,4 @@
-# User Avatar
+# 5 - User Avatar
 
 I decided that I want to have users have the ability to upload an avatar. Right now, from the dashboard, we can see the user's name and email. I want to add an avatar to this as well. Let's add the avatar upload to the form.
 

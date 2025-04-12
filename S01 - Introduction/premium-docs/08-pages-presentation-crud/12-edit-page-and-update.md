@@ -1,4 +1,4 @@
-# Edit Page
+# 12 - Edit Page
 
 We have the "C" and the "R" in CRUD. Now we need to add the "U" for update. We need to create an edit page where we can update the job listing. We already have our methods in place and if you have been following along, you should have the edit button on the details page and it should take you to `http::localhost:8000/jobs/:id/edit`. I know it may be a bit confusing because a lot of other frameworks use the /job/edit/:id but we are using the /jobs/:id/edit. This is just a convention that Laravel uses.
 

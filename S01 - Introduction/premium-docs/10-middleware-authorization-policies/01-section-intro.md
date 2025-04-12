@@ -1,4 +1,4 @@
-# Middleware & Authorization
+# 1 - Middleware & Authorization
 
 We now have the ability to register users and authenticate. However, there is no purpose at the moment. Now we want to do a few things. First, we want to protect certain routes from guests and from auth users. We do this with something called middleware. So we'll learn about middleware. We also need to make it so that when we create a job listing, the user id from the session is put in the database with that job. 
 

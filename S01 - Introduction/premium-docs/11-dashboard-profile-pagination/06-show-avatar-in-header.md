@@ -1,4 +1,4 @@
-# Show Avatar in Header
+# 6 - Show Avatar in Header
 
 We are going to show the user's avatar in the header. I also want to show a default avatar if the user does not have one.
 

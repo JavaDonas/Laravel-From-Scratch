@@ -1,4 +1,4 @@
-# User Authentication
+# 7 - User Authentication
 
 Now that we can register a user, let's add log in functionality. We already have our `LoginController` and view. Let's add the form to the view.
 

@@ -1,4 +1,4 @@
-# Hero Component
+# 12 - Hero Component
 
 Now let's work on the hero component. This will have a background image and a search form. The search form will be put into it's own component much later, so we won't worry about that just yet. I just want to get it displayed on the homepage.
 

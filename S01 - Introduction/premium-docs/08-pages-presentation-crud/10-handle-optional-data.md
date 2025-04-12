@@ -1,4 +1,4 @@
-# Handle Optional Data
+# 10 - Handle Optional Data
 
 We have some fields that are optional or nullable. I want to handle displaying these fields in our layouts.
 

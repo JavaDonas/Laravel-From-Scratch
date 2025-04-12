@@ -1,4 +1,4 @@
-# Authentication Methods For Laravel
+# 2 - Authentication Methods For Laravel
 
 There are a ton of ways to implement authentication in Laravel. I just want to touch on some of the most common ones.
 

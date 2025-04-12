@@ -1,4 +1,4 @@
-# Intro To Models
+# 2 - Intro To Models
 
 So we know all about routes, controllers, and views. We also learned how to integrate a database and use migrations, but what about models? What are they and how do they fit into the MVC pattern?
 

@@ -1,4 +1,4 @@
-# Push To Github
+# 3 - Push To Github
 
 We will bew using Laravel Forge and Digital Ocean to deploy our application. In order to get the files onto the server, we need to push our code to Github. Many of you probably already have done this, but if you haven't, here is how you do it.
 

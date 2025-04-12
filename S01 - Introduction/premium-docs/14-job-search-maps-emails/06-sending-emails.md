@@ -1,4 +1,4 @@
-# Sending Emails
+# 6 - Sending Emails
 
 We can send emails from Laravel. What I would like to do is notify the user when someone applies to their job. We can do this by sending an email. We're going to be using Mailtrap for this, which is a an emailing platform for testing and sending emails in production. We're going to use it for both. There's a very generous free teir that let's us send up to 200 emails per day. Obviously if you're building a production site then you'll want to look into the premium plans, but the free plan is more than enough for this project.
 

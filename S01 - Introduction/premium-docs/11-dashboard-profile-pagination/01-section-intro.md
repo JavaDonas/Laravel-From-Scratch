@@ -1,4 +1,4 @@
-# Dashboard, Profile & Pagination
+# 1 - Dashboard, Profile & Pagination
 
 Now we're going to start working on the dashboard, which will have 3 different things on it. It will have the user's job listings with buttons to edit and delete. It will have a form to edit the profile info including name, email and avatar. Then later, when we add application submissions, it will have the applicants under each listing. So we'll start on the user listings first. 
 

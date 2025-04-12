@@ -1,4 +1,4 @@
-# Auth Middleware & Protecting Routes
+# 3 - Auth Middleware & Protecting Routes
 
 In Laravel, you can protect routes by using the `auth` middleware. As we saw in the last lesson, middleware is a way to filter HTTP requests entering your application.
 

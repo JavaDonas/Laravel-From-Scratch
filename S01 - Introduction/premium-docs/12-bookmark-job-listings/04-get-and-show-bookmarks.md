@@ -1,4 +1,4 @@
-# Get & Show Bookmarks
+# 4 - Get & Show Bookmarks
 
 We have our table in the database, now let's add the controller and routes to get the bookmarks and the view to show them.
 

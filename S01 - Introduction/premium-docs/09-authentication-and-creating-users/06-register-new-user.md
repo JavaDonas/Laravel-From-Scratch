@@ -1,4 +1,4 @@
-# Register New User
+# 6 - Register New User
 
 We have our `RegisterController` and `register` method that returns a view. Let's add the form to that view. We can use our input components that we used in our other forms.
 

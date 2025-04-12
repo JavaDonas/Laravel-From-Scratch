@@ -1,4 +1,4 @@
-# Getting Started With Routing
+# 1 - Getting Started With Routing
 
 Now that we have Laravel up and running, in this section I want to start off by looking at the file and folder structure. We're also going to talk about the MVC design pattern that Laravel adheres to. 
 

@@ -1,4 +1,4 @@
-# Pages, Presentation & CRUD
+# 1 - Pages, Presentation & CRUD
 
 So we have our data ready and we have some of the functionality of fetching and creating jobs with a title and description. Now we want to start building the presentation of the website and showing all the job listing data as well as creating new jobs with all the fields and form values. We'll create a nice looking job card component. We also want to be able to update and delete jobs. So at the end of this section, we'll have full CRUD functionaliy and it will look good. We're also going to learn about things like flash messages and we'll create an alert component to say when a job has been created or updated.
 

@@ -1,4 +1,4 @@
-# Input Validation & Errors
+# 7 - Input Validation & Errors
 
 Right now we can create a new job but if we try and submit an empty form it will break because the title field can not be null. We need to add some validation to the form. We will use Laravel's built-in validation rules.
 

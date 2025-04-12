@@ -1,4 +1,4 @@
-# Applicant Controller & Storing Applicants
+# 4 - Applicant Controller & Storing Applicants
 
 Now that we have the form to submit the job application, we need to create the controller and routes to handle the form submission and store the data and upload the resume.
 

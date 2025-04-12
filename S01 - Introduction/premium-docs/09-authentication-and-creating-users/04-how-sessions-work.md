@@ -1,4 +1,4 @@
-# How Sessions & Authentication Work in Laravel
+# 4 - How Sessions & Authentication Work in Laravel
 
 Before we write any code, I want to talk a little bit about how sessions work in Laravel. I don't want you to just learn the syntax and not understand what is actually happening under the hood. We will also use the `session` helper function to manually create session data.
 

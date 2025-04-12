@@ -1,4 +1,4 @@
-# Create a Database and User
+# 5 - Create a Database and User
 
 We are going to create a database and user for our application. I am going to show you how to do this by using the PG Admin GUI tool as well as the command line.
 

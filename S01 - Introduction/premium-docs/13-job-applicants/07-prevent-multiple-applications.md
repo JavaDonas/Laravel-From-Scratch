@@ -1,4 +1,4 @@
-# Prevent Multiple Applications
+# 7 - Prevent Multiple Applications
 
 I don't want the same user to be able to submit an application to the same job listing. Let's open the `app/Http/controllers/ApplicantController.php` file and change the `store` method to the following:
 

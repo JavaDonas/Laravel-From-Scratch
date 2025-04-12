@@ -1,4 +1,4 @@
-# Header Component & `url()` Helper
+# 6 - Header Component & `url()` Helper
 
 We are going to add the content and styling to the header component and also look at the `url()` helper.
 

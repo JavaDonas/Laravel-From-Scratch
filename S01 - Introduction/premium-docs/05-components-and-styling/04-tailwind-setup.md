@@ -1,4 +1,4 @@
-# Tailwind CSS & Vite Hot Reloading
+# 4 - Tailwind CSS & Vite Hot Reloading
 
 Now we are going to set up Tailwind CSS in our Laravel project. Tailwind CSS is a utility-first CSS framework that is easy to use and customize. It is a great choice for building modern and responsive web applications.
 

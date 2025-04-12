@@ -1,4 +1,4 @@
-# Top & Bottom Banner Components
+# 13 - Top & Bottom Banner Components
 
 We have a couple other components to create. We have the top banner on the homepage which goes right under the hero section. We also have the bottom banner, which will go on the homepage as well as some other pages.
 

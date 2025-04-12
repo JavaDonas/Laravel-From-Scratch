@@ -1,4 +1,4 @@
-# Dismiss Alert & Alpine JS
+# 9 - Dismiss Alert & Alpine JS
 
 We are going to make it so we the alert goes away after a few seconds. Since this is something that is interactive and happens on the client-side, we need to use JavaScript. You can use Vanilla JS if you want by adding it to the `public/js/script.js` file, however I prefer to use Alpine JS for this because it is cleaner and we don't even need to write any JavaScript. We do it all from the Blade file. Alpine is a library that gives us a bunch of attributes and directives that we can use in our HTML and it is often used with Laravel to make things more interactive.
 

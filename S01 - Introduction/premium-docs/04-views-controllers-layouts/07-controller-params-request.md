@@ -1,4 +1,4 @@
-# Using Params, Request & Forms In A Controller
+# 7 - Using Params, Request & Forms In A Controller
 
 We already know how to work with params and the request object within a route. We can also use them in a controller. Let's see how we can do that. We are also going to create a form in a view and process the form in a controller.
 

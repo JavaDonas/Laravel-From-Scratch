@@ -1,4 +1,4 @@
-# Create a New Job
+# 6 - Create a New Job
 
 So we know how to fetch jobs within our application. We also know how to create them from within Tinker. But how do we actually create them from within our application? It actually isn't much different than what we did in Tinker. We already have a form on the create page if you have been following along. It is extremely ugly at the moment but that's okay. Remember, I am not interested in making things look good yet or having all of the data for the job listings. We are only dealing with the title and description at the moment for simplicity.
 

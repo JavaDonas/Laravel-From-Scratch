@@ -1,4 +1,4 @@
-# Policies & `@can` Directive
+# 7 - Policies & `@can` Directive
 
 In the last lesson, we added authorization to the edit and delete buttons on the job listings. We can still do the actual update and delete without owning the listing, which we need to change, but first I want to show you how to create a new policy and use the `@can` directive.
 

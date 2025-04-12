@@ -1,4 +1,4 @@
-# Creating Migrations
+# 8 - Creating Migrations
 
 In the last lesson, we learned what migration are and we looked at the default migrations that come with Laravel. In this lesson, we will create our first migration.
 

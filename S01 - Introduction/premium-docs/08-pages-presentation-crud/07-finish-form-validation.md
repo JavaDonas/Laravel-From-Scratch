@@ -1,4 +1,4 @@
-# Finish Form Validation
+# 7 - Finish Form Validation
 
 We have our form submitting data to the store method in the `JobController`. We need to add the fields to the store method for validation and submission.
 

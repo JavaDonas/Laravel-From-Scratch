@@ -1,4 +1,4 @@
-# Database & Migrations
+# 1 - Database & Migrations
 
 Now that we have our header, hero and some other components, I want to start to think about data. With Laravel, you can use a bunch of different databases and I'll be using Postgres, but what's really cool is if you want to use MySQL or even SQLite, all you need to change is the config values in the .env file. The rest of the code is the exact same.
 

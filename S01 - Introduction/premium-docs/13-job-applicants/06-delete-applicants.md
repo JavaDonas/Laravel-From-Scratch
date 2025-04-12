@@ -1,4 +1,4 @@
-# Delete Applicants
+# 6 - Delete Applicants
 
 Let's add the functionality to delete applicants from the job application submissions.
 

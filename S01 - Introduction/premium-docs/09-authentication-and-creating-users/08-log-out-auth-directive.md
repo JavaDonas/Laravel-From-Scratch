@@ -1,4 +1,4 @@
-# Log Out User & Auth Directive
+# 8 - Log Out User & Auth Directive
 
 Now that we are logged in, we need a way to log out. I also want to show and hide links based on the user's authentication status. We can use the `@auth` directive to do this.
 

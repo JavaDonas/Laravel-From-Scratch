@@ -1,4 +1,4 @@
-# Request Object & Query Params
+# 6 - Request Object & Query Params
 
 In Laravel, you can access the request object in a route closure. The request object contains all the information about the request including the following:
 

@@ -1,4 +1,4 @@
-# Homepage Jobs
+# 3 - Homepage Jobs
 
 We want to show the latest 6 job listings on the homepage. This means we need to go into the `app/Http/Controllers/HomeController.php` file and make some changes.
 

@@ -1,4 +1,4 @@
-# Test User Seeder
+# 5 - Test User Seeder
 
 We already have the ability to wipe the database jobs and users and recreate 10 new ones with the following command:
 

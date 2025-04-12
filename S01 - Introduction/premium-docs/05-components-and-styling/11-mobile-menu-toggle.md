@@ -1,4 +1,4 @@
-# Mobile Menu Toggle
+# 11 - Mobile Menu Toggle
 
 This is going to be a very quick and simple lesson. We want to make the toggle work. Now ultimatley, when we need to add some interactive JavaScript, I woud suggest using Alpine.js, which is a lightweight JavaScript framework that provides reactivity and declarative rendering in your HTML markup. So you don't even have to write any JavaScript for things like toggling content and modals. We'll be using this later, but for now we'll just have a few lines of vanilla JavaScript.
 

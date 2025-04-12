@@ -1,4 +1,4 @@
-# Mobile Menu Link 
+# 10 - Mobile Menu Link 
 
 So we have the regular menu all set. Let's take care of the links in the mobile menu. These links classes differ a bit, so we can't just use the NavLink component as is. What I want to do is pass in a prop of `:mobile="true"` if it is a mobile link and it will then apply the correct classes.
 

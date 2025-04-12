@@ -1,4 +1,4 @@
-# SSL & Launch Test
+# 5 - SSL & Launch Test
 
 Now we need to add an SSL. We can get a free SSL with Let's Encrypt via the Forge interface. Log into Forge and click on "SSL". Select "Let's Encrypt". It will take a minute or so and then it should say active.
 

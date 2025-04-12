@@ -1,4 +1,4 @@
-# Simple Job Pagination
+# 7 - Simple Job Pagination
 
 Right now, all jobs will be displayed at once even if there are hundreds of them. This is not a good idea. We should paginate them. Laravel has a built-in pagination system. We will use that to paginate the jobs.
 

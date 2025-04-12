@@ -1,4 +1,4 @@
-# Removing bookmarks
+# 7 - Removing bookmarks
 
 Now, we want to be able to remove the bookmarks. The heavy lifting is done. We already have the button submitting to the `destroys` route. We just need to add the functionality to remove the bookmark.
 

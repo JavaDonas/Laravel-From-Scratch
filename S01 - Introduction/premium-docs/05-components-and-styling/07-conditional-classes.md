@@ -1,4 +1,4 @@
-# Conditional Classes & @php Directive
+# 7 - Conditional Classes & @php Directive
 
 In this lesson, we are going to look at the `@php` directive, conditional classes as well as the `request()` helper function.
 

@@ -1,4 +1,4 @@
-# Views, Controllers and Layouts
+# 1 - Views, Controllers and Layouts
 
 We setup our Laravel app and we learned how to take in requests through a route and send a response back. Now we are going to get into views, which are the pages and UI of our project. We will be using Blade templates for this as well as certain directives for dynamic data and things like conditionals and loops. 
 

@@ -1,4 +1,4 @@
-# Dashboard Controller and View
+# 2 - Dashboard Controller and View
 
 The dashboard page will have a form with the user's name and email. The user can update their name and email from this form by submitting to the profile controller method, which we will update soon. It will also have the user's job listings and any applicant submissions to those job listings.
 

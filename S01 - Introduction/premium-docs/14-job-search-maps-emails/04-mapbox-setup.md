@@ -1,4 +1,4 @@
-# Mapbox Setup
+# 4 - Mapbox Setup
 
 Now I want to show a map with a marker on the job listing pages. We will use the address and other location fields in the database.
 

@@ -1,4 +1,4 @@
-# Jobs Page & Card Component
+# 2 - Jobs Page & Card Component
 
 Let's start off with the /jobs page. Right now, it just shows a list of titles. We want to have a nice detailed card for each job listing. We will also add a search form at the top of the page but that functionality will be added later.
 

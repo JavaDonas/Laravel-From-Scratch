@@ -1,4 +1,4 @@
-# Database Options
+# 2 - Database Options
 
 Now we are ready to start working with databases. Laravel supports multiple database systems out of the box. You can use MySQL, PostgreSQL, SQLite, or SQL Server. You can also use in-memory databases for testing.
 

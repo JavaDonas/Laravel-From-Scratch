@@ -1,4 +1,4 @@
-# Middleware Overview
+# 2 - Middleware Overview
 
 One of the most important parts of any web application is the middleware, which we have yet to really get into.
 

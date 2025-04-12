@@ -1,4 +1,4 @@
-# Route Paramaters
+# 5 - Route Paramaters
 
 In the last lesson, we looked at basic routing. In this lesson, we will look at route parameters. Route parameters are used to capture values from the URI. For example, you may have a url like this:
 

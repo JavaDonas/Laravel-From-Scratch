@@ -1,4 +1,4 @@
-# PostgreSQL Windows Installation
+# 4 - PostgreSQL Windows Installation
 
 In this lesson, I will show you how to install PostgreSQL on Windows.
 

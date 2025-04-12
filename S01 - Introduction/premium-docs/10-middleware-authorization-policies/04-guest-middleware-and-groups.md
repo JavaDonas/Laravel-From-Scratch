@@ -1,4 +1,4 @@
-# Guest Middleware & Groups
+# 4 - Guest Middleware & Groups
 
 Now that we have protected routes like `/jobs/create` and `/jobs/edit/:id`, I now want to use the `Guest` middleware to make it so only guests or non-logged in users can access routes like `/login` and `/register`.
 

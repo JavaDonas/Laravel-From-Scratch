@@ -1,4 +1,4 @@
-# Sending Data In Emails
+# 7 - Sending Data In Emails
 
 We have the email being sent to the job owner. Let's add some data to the email. I want the job title and all the application data. We can do this by passing data to the Mailable class.
 

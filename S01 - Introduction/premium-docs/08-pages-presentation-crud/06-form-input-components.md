@@ -1,4 +1,4 @@
-# Form Input Components
+# 6 - Form Input Components
 
 So we have our form, but the code is very repetitive. We have a lot of input fields and labels and error messages. We can create a component for inputs like text, textarea, select, etc. This is a good practice because it makes our code more readable and easier to maintain. If you have ever used a frontend framework like React, this should look familiar.
 

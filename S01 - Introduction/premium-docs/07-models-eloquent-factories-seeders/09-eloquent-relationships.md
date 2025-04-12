@@ -1,4 +1,4 @@
-# Eloquent Relationships
+# 9 - Eloquent Relationships
 
 In this lesson, we will learn about Eloquent relationships whichallow you to define relationships between models. This is a powerful feature of Eloquent that allows you to easily work with related data. In our app, we want to be able to associate a job listing with a user.
 

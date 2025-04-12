@@ -1,4 +1,4 @@
-# Fetching Data & Eloquent
+# 3 - Fetching Data & Eloquent
 
 As I mentioned in the last video, Eloquent is an ORM or Object Relational Mapper, which is a powerful tool that allows us to interact with the database. In this lesson, we will learn how to use Eloquent to fetch data from the database.
 

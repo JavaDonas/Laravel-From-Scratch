@@ -1,4 +1,4 @@
-# Create & Display Views
+# 2 - Create & Display Views
 
 In Laravel, the view layer is responsible for handling the presentation of data to the user, typically in the form of HTML. Laravel’s view system allows developers to separate the logic of the application from the display of the data, adhering to the Model-View-Controller (MVC) design pattern.
 

@@ -1,4 +1,4 @@
-# Profile Controller & Update User Info
+# 4 - Profile Controller & Update User Info
 
 We need to add a form on the dashboard page that shows the user's info and we want to be able to update that info. I am going to create a separate controller for this because it relates more to the user "profile".
 

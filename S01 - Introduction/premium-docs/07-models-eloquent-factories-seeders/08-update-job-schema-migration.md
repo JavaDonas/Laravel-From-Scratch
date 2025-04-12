@@ -1,4 +1,4 @@
-# Update Job Schema & Migration
+# 8 - Update Job Schema & Migration
 
 So we have very basic create and read functionality for jobs. The next step is to update the job schema and migration to include the rest of the fields that we need for a job listing. We will also update the form to include these fields. A schema is just a definition of the table and the fields that it contains. A migration is a way to update the schema of a table.
 

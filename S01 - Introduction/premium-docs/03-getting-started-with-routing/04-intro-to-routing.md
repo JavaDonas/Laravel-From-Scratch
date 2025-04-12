@@ -1,4 +1,4 @@
-# Intro To Routing
+# 4 - Intro To Routing
 
 Routing in Laravel is a way to define the endpoints or routes of your application to direct incoming HTTP requests. Meaning that when a user visits a URL, the application should know what to do with it. Usually, a route is connected to some controller method. We'll get into controllers soon, but it doesn't have to load a controller method. You can load a view directly or just return something directly from a function.
 

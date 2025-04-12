@@ -1,4 +1,4 @@
-# Add Domain Name
+# 4 - Add Domain Name
 
 Now that our server is setup on Forge & Digital Ocean, we need to setup the domain name. Go to the registrar of wherever you bought your domain name and add the Digital Ocean nameservers. This is so we can manage the domain via Digital Ocean.
 

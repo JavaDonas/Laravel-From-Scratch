@@ -1,4 +1,4 @@
-# Creating Controllers
+# 6 - Creating Controllers
 
 So far, we have been working with routes and views. We have created routes to handle incoming requests and return views. However, as our application grows, we will need to handle more complex logic. This is where controllers come in.
 

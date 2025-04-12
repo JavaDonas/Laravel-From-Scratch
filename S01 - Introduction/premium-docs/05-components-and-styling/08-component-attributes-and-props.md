@@ -1,4 +1,4 @@
-# Component Attributes & Props
+# 8 - Component Attributes & Props
 
 In this lesson, we are going to look at component attributes and props. We will create a `NavLink` component that accepts attributes and props. The difference between attributes and props is that attributes are for actual defined HTML attributes, while props are for custom attributes.
 

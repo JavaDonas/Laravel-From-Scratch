@@ -1,4 +1,4 @@
-# Blade Templates & Directives
+# 4 - Blade Templates & Directives
 
 Laravel uses a templating engine called Blade. Blade is a simple, yet powerful templating engine that allows you to write clean and concise templates. Blade templates are compiled into plain PHP code and cached until they are modified, meaning they are extremely fast. We can have dynamic content in our views by using Blade directives, which are special tags that start with `@`.
 

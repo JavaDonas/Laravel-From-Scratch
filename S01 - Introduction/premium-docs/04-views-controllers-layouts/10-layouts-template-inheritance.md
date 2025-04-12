@@ -1,4 +1,4 @@
-# Layouts Using Template Inheritance
+# 10 - Layouts Using Template Inheritance
 
 Right now, we have a couple views. We have a `jobs/index.blade.php` view and a `jobs/create.blade.php` view. Notice that both of these files have the HTML boilerplate with the `head` and `body` tags. If we have to add this boilerplate to every view, it will be a lot of duplication. This is where layouts come in.
 

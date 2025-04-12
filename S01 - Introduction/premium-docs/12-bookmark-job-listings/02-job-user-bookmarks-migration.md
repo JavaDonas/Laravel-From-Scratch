@@ -1,4 +1,4 @@
-# Job User Bookmarks Migration
+# 2 - Job User Bookmarks Migration
 
 Now that we have total CRUD functionality for jobs and authentication with profiles, we are going to move on to bookmarking functionality where users can save or bookmark job listings that they are interested in.
 

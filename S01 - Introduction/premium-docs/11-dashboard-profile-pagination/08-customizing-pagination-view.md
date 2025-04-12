@@ -1,4 +1,4 @@
-# Customizing The Pagination View
+# 8 - Customizing The Pagination View
 
 Right now we have a prev and next button, but what if we want to style it differently and add individual page numbers? Right now, that code is not available to us in our views. However we can publish the pagination view and customize it.
 

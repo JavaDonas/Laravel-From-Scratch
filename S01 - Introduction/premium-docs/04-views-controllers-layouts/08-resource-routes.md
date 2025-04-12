@@ -1,4 +1,4 @@
-# Resource Routes
+# 8 - Resource Routes
 
 In Laravel, you can define a resource route that maps all the CRUD operations for a resource to controller methods. This is a convenient way to define routes for a resource without having to manually define each route, which is what we have been doing so far.
 

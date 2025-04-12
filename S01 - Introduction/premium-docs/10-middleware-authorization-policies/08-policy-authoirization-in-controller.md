@@ -1,4 +1,4 @@
-## Policy & Authorization In Controller
+# 8 - Policy & Authorization In Controller
 
 Right now, the policy is only preventing the user from seeing the edit and delete buttons. We need to use the policy in the job controller so they actually can't update or delete unless they own the listing.
 

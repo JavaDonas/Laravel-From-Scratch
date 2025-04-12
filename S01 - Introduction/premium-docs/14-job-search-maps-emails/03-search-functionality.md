@@ -1,4 +1,4 @@
-# Search Functionality
+# 3 - Search Functionality
 
 Now we need to create the `search` method in the `JobController`. Open the `app/Http/Controllers/JobController.php` file and add the following method.
 

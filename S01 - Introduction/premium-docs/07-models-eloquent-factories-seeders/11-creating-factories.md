@@ -1,4 +1,4 @@
-# Creating Factories
+# 12 - Creating Factories
 
 Now that we saw how the user factory works, let's create a factory for the `Job` model.
 

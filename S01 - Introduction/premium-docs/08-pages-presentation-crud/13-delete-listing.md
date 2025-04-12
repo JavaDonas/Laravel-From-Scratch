@@ -1,4 +1,4 @@
-# Delete a Listing
+# 13 - Delete a Listing
 
 We now have the "CRU" of the "CRUD" in place. Now we need to add the delete functionality.
 

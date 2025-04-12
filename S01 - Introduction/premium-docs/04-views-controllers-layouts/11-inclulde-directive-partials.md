@@ -1,4 +1,4 @@
-# `@include` Directive & Partial Views
+# 11 - `@include` Directive & Partial Views
 
 In the previous chapter, we learned how to use the `@extends` directive to create a layout. In this chapter, we will learn how to use the `@include` directive to include a partial view in another view. There is a more modern way to use layouts using components, but we will cover that in a later chapter. I want you to understand both ways.
 

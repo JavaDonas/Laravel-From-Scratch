@@ -1,4 +1,4 @@
-# Authentication & Creating Users
+# 1 - Authentication & Creating Users
 
 Now that we have full CRUD functionality, we're going to start on authentication and user registeration. Once we do that, in the next section we can start adding ownership and authorization. 
 

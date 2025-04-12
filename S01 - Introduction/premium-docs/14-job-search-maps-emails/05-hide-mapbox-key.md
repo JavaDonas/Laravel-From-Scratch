@@ -1,4 +1,4 @@
-# Hide Mapbox Key
+# 5 - Hide Mapbox Key
 
 Right now our map is showing, but the key is visible. Let's hide it by using a proxy endpoint. We will create a new route that will call the Mapbox API and return the data to the client.
 

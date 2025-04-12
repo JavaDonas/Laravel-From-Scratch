@@ -1,4 +1,4 @@
-# Seeders
+# 12 - Seeders
 
 We know how to create and use factories and we used them within Tinker. We can create seeders to populate our database with data right from the command line with Artisan. This is useful for testing and development purposes. We can also use seeders to populate our database with initial data when we deploy our application.
 

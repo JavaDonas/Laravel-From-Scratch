@@ -1,4 +1,4 @@
-# Tinker & CRUD Operations
+# 4 - Tinker & CRUD Operations
 
 In the last lesson, we created a model and used it to fetch data from the database. In this lesson, I want to show you how to create, read update and delete data using Eloquent. We will be using Tinker, which is a command line tool, however, when we want to do this stuff in our application, we use the same code.
 

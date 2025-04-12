@@ -1,4 +1,4 @@
-# Email Attachments
+# 8 - Email Attachments
 
 In this lesson, we will send the resume as an email attachment.
 

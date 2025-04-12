@@ -1,4 +1,4 @@
-# Migrations Overview?
+# 7 - Migrations Overview?
 
 Now that we have a database and we have connected to it through our application, we need to be able to make changes to our database. This is where migrations come in. Migrations are version-controlled files used to manage database schema changes. They allow you to create, modify or delete tables and columns in a structured and repeatable way.
 

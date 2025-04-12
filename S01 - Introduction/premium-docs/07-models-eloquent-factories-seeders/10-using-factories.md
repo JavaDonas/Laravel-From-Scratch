@@ -1,4 +1,4 @@
-# Using Factories
+# 10 - Using Factories
 
 In this lesson, we will learn how to use factories. Factories are a way to define the attributes of a model in a reusable way. They allow you to define a blueprint for creating model instances with predefined attributes. This is useful when you need to seed your database with sample data or when you need to create model instances in your tests.
 

@@ -1,4 +1,4 @@
-# Search Component & Route
+# 2 - Search Component & Route
 
 We have a hero component now that has a form in it. I want to make that form a search component that can be reused in other parts of the application. 
 

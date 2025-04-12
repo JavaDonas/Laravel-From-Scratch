@@ -1,4 +1,4 @@
-# Add Current User To Listing
+# 6 - Add Current User To Listing
 
 We have full authentication implemented in our application. However, we still need to implement authorization. Right now, anyone can edit or delete any listing. We need to implement authorization so that only the user who created a listing can edit or delete it.
 

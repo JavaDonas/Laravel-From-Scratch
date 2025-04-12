@@ -1,4 +1,4 @@
-# Applicants Migration and Model
+# 2 - Applicants Migration and Model
 
 We are now going to start to implement job application submissions. Users can apply for jobs and submit their resumes. We will create a new table to store the applicants and migrate it to the database.
 

@@ -1,4 +1,4 @@
-# Type Hinting
+# 9 - Type Hinting
 
 Type hinting is a way to specify the type of a variable in PHP. This is useful for both readability and maintainability of your code. It also helps to catch errors early on in the development process. In Laravel, this is completely optional, but it is a good practice to use it. We are using it in our arguments. We can also use it with return types for our functions in the controller. Laravel has custom types that we can use. Here are some common ones:
 

@@ -1,4 +1,4 @@
-# Applicant Alpine Form Modal
+# 3 - Applicant Alpine Form Modal
 
 In this section, we will create a form to allow applicants to submit their job applications. We are going to use Alpine.js to show a form modal.
 

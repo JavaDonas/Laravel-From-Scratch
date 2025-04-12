@@ -1,4 +1,4 @@
-# Job Search, Maps & Emails
+# 1 - Job Search, Maps & Emails
 
 Alright guys, we're almost there. We're going to do three things in this section. First, we'll add the job search functionality. We'll make the form that is in the Hero it's own search component. We'll also show that component on the jobs page. We'll have a route to submit to that will filter the jobs by keyword and location.
 

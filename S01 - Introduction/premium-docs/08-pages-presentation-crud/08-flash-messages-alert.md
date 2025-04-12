@@ -1,4 +1,4 @@
-# Alert Components
+# 8 - Alert Components
 
 In this lesson, I want to handle the success or error messages in the session when we redirect with an alert component.
 

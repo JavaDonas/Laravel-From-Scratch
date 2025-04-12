@@ -1,4 +1,4 @@
-# MVC: How It Works
+# 3 - MVC: How It Works
 
 We looked at the Laravel folder structure in the last lesson and you saw that there are folders for models, views and controllers, so i just want to take a moment to explain what the Model-View-Controller (MVC) architectural pattern is.
 

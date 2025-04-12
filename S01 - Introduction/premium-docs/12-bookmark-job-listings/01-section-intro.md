@@ -1,4 +1,4 @@
-# Bookmark Job Listings
+# 1 - Bookmark Job Listings
 
 Now we're going to work on the bookmarking functionality. We have a button on the job details page that allows users to add the job listing to their bookmarks or saved jobs. This is so they can eaisly access it later on. There will be a link in the navigation to see all the user's bookmarks. We also want to have a remove bookmark button on the details page if the job is already bookmarked.
 

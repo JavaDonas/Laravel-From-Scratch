@@ -1,4 +1,4 @@
-# Intro To Components
+# 2 - Intro To Components
 
 Components were introduced in Laravel 7.0. Components provide a way to encapsulate HTML, CSS, and JavaScript into reusable pieces that can be used throughout your application. They support both class-based components (using PHP classes) and anonymous components (using simple Blade templates). This helps in keeping your views organized and maintainable. If you are coming from a frontend JavaScript framework like React or Vue, you will feel right at home with Laravel components.
 

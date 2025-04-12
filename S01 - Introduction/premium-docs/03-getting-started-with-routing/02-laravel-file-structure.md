@@ -1,4 +1,4 @@
-# Laravel File & Folder Structure
+# 2 - Laravel File & Folder Structure
 
 Laravel has a very well-organized file/folder structure. Let's take a look at the most important folders and files in a Laravel project.
 
